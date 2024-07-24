@@ -74,6 +74,6 @@ Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar u
 
 Este proyecto es de uso libre. Puedes usar, modificar y distribuir el código libremente. Se agradece el reconocimiento adecuado si decides utilizar este proyecto como base para otros desarrollos.
 
-Puedes encontrar el documento completo de mi informe en el siguiente [[enlace](https://www.overleaf.com/read/tkpzcjxprvhp#059aa3)]([https://www.ejemplo.com/tu-informe](https://www.overleaf.com/read/tkpzcjxprvhp#059aa3)).
+Puedes encontrar el documento completo de mi informe en el siguiente [[enlace](https://www.overleaf.com/read/tkpzcjxprvhp#059aa3)].
 
 
