@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-// Pines de control para los motores
+//Pines de control para los motores
 #define MotFwd1  19  // Motor 1 hacia adelante
 #define MotRev1  21  // Motor 1 hacia atrás
 #define MotFwd2  25  // Motor 2 hacia adelante
