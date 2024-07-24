@@ -72,4 +72,5 @@ Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar u
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto es de uso libre. Puedes usar, modificar y distribuir el código libremente. Se agradece el reconocimiento adecuado si decides utilizar este proyecto como base para otros desarrollos.
+
